@@ -10,7 +10,7 @@ replace (
 )
 
 require (
-	github.com/beevik/etree v1.4.1
+	github.com/beevik/etree v1.5.0
 	github.com/digitalocean/go-libvirt v0.0.0-20221205150000-2939327a8519
 	github.com/google/nftables v0.2.0
 	github.com/google/uuid v1.6.0
