@@ -24,7 +24,7 @@ require (
 	github.com/ridge/must v0.6.0
 	github.com/spf13/cobra v1.8.1
 	github.com/vishvananda/netlink v1.3.0
-	golang.org/x/sys v0.28.0
+	golang.org/x/sys v0.30.0
 	libvirt.org/go/libvirtxml v1.10009.0
 )
 
