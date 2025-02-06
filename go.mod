@@ -12,7 +12,7 @@ replace (
 require (
 	github.com/beevik/etree v1.4.1
 	github.com/digitalocean/go-libvirt v0.0.0-20221205150000-2939327a8519
-	github.com/google/nftables v0.2.0
+	github.com/google/nftables v0.3.0
 	github.com/google/uuid v1.6.0
 	github.com/outofforest/go-zfs/v3 v3.1.14
 	github.com/outofforest/ioc/v2 v2.5.2
@@ -31,8 +31,7 @@ require (
 require (
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/josharian/native v1.1.0 // indirect
-	github.com/mdlayher/netlink v1.7.2 // indirect
+	github.com/mdlayher/netlink v1.7.3-0.20250113171957-fbb4dce95f42 // indirect
 	github.com/mdlayher/socket v0.5.0 // indirect
 	github.com/outofforest/libexec v0.3.9 // indirect
 	github.com/samber/lo v1.47.0 // indirect
@@ -40,7 +39,7 @@ require (
 	github.com/vishvananda/netns v0.0.4 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sync v0.8.0 // indirect
-	golang.org/x/text v0.18.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 )
